@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/iconServer">
+        <file>Icon/folderIcon.png</file>
+    </qresource>
+    <qresource prefix="/conf">
+        <file>Conf/Config</file>
+    </qresource>
+</RCC>
